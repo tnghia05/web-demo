@@ -344,10 +344,10 @@ var list_products = [{
     },
     "masp": "Mob3"
 }, {
-    "name": "Xiaomi Redmi Note 5",
+    "name": "Xiaomi Redmi Note 13",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi-redmi-note-5-pro-600x600.jpg",
-    "price": "5.690.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/309831/xiaomi-redmi-note-13-gold-thumb-600x600.jpg",
+    "price": "4.790.000",
     "star": 4,
     "rateCount": 372,
     "promo": {
@@ -355,22 +355,22 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 5.99', Full HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "12 MP và 5 MP (2 camera)",
+        "screen": " AMOLED6.67Full HD ",
+        "os": "Android 13",
+        "camara": "Chính 108 MP & Phụ 8 MP, 2 MP",
         "camaraFront": "13 MP",
-        "cpu": "Qualcomm Snapdragon 636 8 nhân",
-        "ram": "4 GB",
-        "rom": "64 GB",
+        "cpu": "Snapdragon 685 8 nhân 64-bit    ",
+        "ram": "8 GB",
+        "rom": "128 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
         "battery": "4000 mAh, có sạc nhanh"
     },
     "masp": "Xia2"
 }, {
-    "name": "Xiaomi Redmi 5 Plus 4GB",
+    "name": "Xiaomi 14 5G 512GB",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi-redmi-5-plus-600x600.jpg",
-    "price": "4.790.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/298538/xiaomi-14-green-thumbnew-600x600.jpg",
+    "price": "21.490.000",
     "star": 4,
     "rateCount": 347,
     "promo": {
@@ -378,15 +378,15 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 5.99', Full HD+",
-        "os": "Android 7.1 (Nougat)",
-        "camara": "12 MP",
-        "camaraFront": "5 MP",
-        "cpu": "Snapdragon 625 8 nhân 64-bit",
-        "ram": "4 GB",
-        "rom": "64 GB",
+        "screen": "AMOLED 6.36' 1.5K",
+        "os": "Android 14        ",
+        "camara": "Chính 50 MP & Phụ 50 MP, 50 MP",
+        "camaraFront": "32 MP        ",
+        "cpu": "Snapdragon 8 Gen        ",
+        "ram": "12 GB",
+        "rom": "512 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "4000 mAh"
+        "battery": "4610  mAh"
     },
     "masp": "Xia3"
 }, {
@@ -462,12 +462,12 @@ var list_products = [{
     "name": "Nokia black future",
     "company": "Nokia",
     "img": "https://cdn.tgdd.vn/Products/Images/42/22701/dien-thoai-di-dong-Nokia-1280-dienmay.com-l.jpg",
-    "price": "999.99.000",
+    "price": "999.999.000",
     "star": 5,
     "rateCount": 9999,
     "promo": {
         "name": "giamgia",
-        "value": "1.000"
+        "value": "1.000.000"
     },
     "detail": {
         "screen": "4K, Chống nước, Chống trầy",
@@ -1127,7 +1127,7 @@ var list_products = [{
 }, {
     "name": "Samsung Galaxy Z Fold5",
     "company": "Samsung",
-    "img": "/DoAn_Web1-master/img/products/samsung-galaxy-z-fold5-blue-thumbnew-600x600.webp",
+    "img": "/DoAn_Web/img/products/samsung-galaxy-z-fold5-blue-thumbnew-600x600.webp",
     "price": "23.990.000",
     "star": 4,
     "rateCount": 804,
@@ -1151,13 +1151,13 @@ var list_products = [{
 }, {
     "name": "Samsung Galaxy S24 Ultra 5G 256GB",
     "company": "Samsung",
-    "img": "/DoAn_Web1-master/img/products/samsung-galaxy-s24-ultra-grey-thumb-600x600.webp",
+    "img": "/DoAn_Web/img/products/samsung-galaxy-s24-ultra-grey-thumb-600x600.webp",
     "price": "28.990.000",
     "star": 1,
     "rateCount": 14,
     "promo": {
         "name": "giareonline",
-        "value": "28.490.000   "
+        "value": "28.490.000"
     },
     "detail": {
         "screen": "Dynamic AMOLED 2XChính 7.6 & Phụ 6.2Quad HD+ (2K+)",
@@ -1169,7 +1169,7 @@ var list_products = [{
         "ram": "12 GB",
         "rom": "128 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
-        "battery": "5555 mAh"
+        "battery": "55555 mAh"
     },
     "masp": "Sam5"
 }]
