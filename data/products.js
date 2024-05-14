@@ -371,7 +371,7 @@ var list_products = [{
     "company": "Xiaomi",
     "img": "https://cdn.tgdd.vn/Products/Images/42/298538/xiaomi-14-green-thumbnew-600x600.jpg",
     "price": "21.490.000",
-    "star": 4,
+    "star": 5,
     "rateCount": 347,
     "promo": {
         "name": "",
