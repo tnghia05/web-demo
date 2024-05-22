@@ -24,22 +24,49 @@
     <!-- js -->
     <script src="data/products.js"></script>
 	<script src="js/dungchung.js"></script>
-    <script>
-        window.onload = function () {
-            khoiTao();
-            // thêm tags (từ khóa) vào khung tìm kiếm
-            var tags = ["Samsung", "iPhone", "Huawei", "Oppo", "Mobi"];
-            for (var t of tags) addTags(t, "index.html?search=" + t);
-        }
-    </script>
+    
 
 </head>
 
 <body>
     <script> addTopNav();</script>
+    
+    
 
     <section style="min-height: 85vh">
-        <script> addHeader(); </script>
+        
+        <section>
+            <div class="header group">
+                <div class="logo">
+                    <a href="index.html">
+                        <img src="img/phone-logo-vector-250.jpg" alt="Trang chủ Smartphone Store" title="Trang chủ Smartphone Store">
+                    </a>
+                </div> <!-- End Logo -->
+        
+                <div class="content">
+                    <div class="search-header" style="position: relative; left: 162px; top: 1px;">
+                        <form class="input-search" method="get" action="index.html">
+                            <div class="autocomplete">
+                                <input id="search-box" name="search" autocomplete="off" type="text" placeholder="Nhập từ khóa tìm kiếm...">
+                                <button type="submit">
+                                    <i class="fa fa-search"></i>
+                                    Tìm kiếm
+                                </button>
+                            </div>
+                        </form> <!-- End Form search -->
+                        <div class="tags">
+                            <strong>Từ khóa:</strong>
+                            <a href="index.html?search=Samsung">Samsung</a>
+                            <a href="index.html?search=iPhone">iPhone</a>
+                            <a href="index.html?search=Huawei">Huawei</a>
+                            <a href="index.html?search=Oppo">Oppo</a>
+                            <a href="index.html?search=Mobi">Mobi</a>
+                        </div>
+                    </div> <!-- End Search header -->
+                </div>
+            </div>
+                        
+        
 
         <div class="body-tuyendung">
             <div class="tuyendung-header">Tuyển dụng</div>
@@ -58,13 +85,13 @@
 
                 <b>2.THỜI GIAN LÀM VIỆC</b>
                 <ul class="tuyendung-noidung">
-                    <li><span>Từ 18h – 21h30 các ngày trong tuần</span></li>
+                    <li><span>Từ 8h – 18h30 các ngày trong tuần</span></li>
                     <li>Nghỉ 3 ngày/ tháng</li>
                 </ul>
 
                 <b>3.ĐỊA ĐIỂM LÀM VIỆC</b>
                 <ul class="tuyendung-noidung">
-                    <span>273 An Dương Vương, phường 3, Quận 5, TPHCM</span>
+                    <span>CellphoneS 369 Nguyễn Văn Linh, Thạc Gián, Thanh Khê, Đà Nẵng</span>
                 </ul>
 
                 <b>4.YÊU CẦU</b>
@@ -91,19 +118,18 @@
                 <b>6.LIÊN HỆ</b>
                 <ul class="tuyendung-noidung">
                     <li>Ứng viên điền thông tin theo link: 
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdNjF8wP7v7ocBDVRUFGqRCHrV0lNPky33Sn3GXVgSVYe7dMA/viewform" target="_blank">
+                        <a href="https://www.facebook.com/t.nghia7115" target="_blank">
                             <span>Tuyển dụng</span>
                         </a>
                     </li>
-                    <li>Hoặc nộp hồ sơ trực tiếp tại <b>Phòng Hành chính nhân sự - 95B Phố Biển, Trần Hưng Đạo, TPHCM.</b></li>
-                    <li>Hoặc gửi CV qua email:<b> DoAn@gmail.com</b></li>
+                    <li>Hoặc nộp hồ sơ trực tiếp tại <b>CellphoneS 369 Nguyễn Văn Linh, Thạc Gián, Thanh Khê, Đà Nẵng</b></li>
+                    <li>Hoặc gửi CV qua email:<b> WEB@gmail.com</b></li>
                 </ul>
             </div>
         </div>
 
     </section>
 
-    <script> addContainTaiKhoan() </script>
 
     <div class="footer">
         <script>addFooter();</script>

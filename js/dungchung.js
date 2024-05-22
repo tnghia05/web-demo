@@ -569,8 +569,8 @@ function addFooter() {
 
     <!-- ============== Footer ============= -->
     <div class="copy-right">
-        <p><a href="index.html">LDD Phone Store</a> - All rights reserved © 2021 - Designed by
-            <span style="color: #eee; font-weight: bold">group 15th</span></p>
+        <p><a href="index.html">SellPhone Store</a> - All rights reserved © 2024 - Designed by 
+            <span style="color: #eee; font-weight: bold">TTN</span></p>
     </div>`);
 }
 
@@ -739,19 +739,7 @@ function auto_Get_Database() {
         var img = a.getElementsByTagName('img')[0].src;
         console.log(img);
 
-        // // rating
-        // var rating = a.getElementsByClassName('ratingresult')[0];
-        // var star = rating.getElementsByClassName('icontgdd-ystar').length;
-        // var rateCount = parseInt(rating.getElementsByTagName('span')[0].innerHTML);
-
-        // // promo
-        // var tragop = a.getElementsByClassName('installment');
-        // if(tragop.length) {
-
-        // }
-
-        // var giamgia = a.getElementsByClassName('discount').length;
-        // var giareonline = a.getElementsByClassName('shockprice').length;
+       
     }
 }
 
@@ -806,45 +794,3 @@ function getThongTinSanPhamFrom_TheGioiDiDong() {
     })();
 }
 
-// $('.taikhoan').find('input').on('keyup blur focus', function (e) {
-
-//     var $this = $(this),
-//         label = $this.prev('label');
-
-//     if (e.type === 'keyup') {
-//         if ($this.val() === '') {
-//             label.removeClass('active highlight');
-//         } else {
-//             label.addClass('active highlight');
-//         }
-//     } else if (e.type === 'blur') {
-//         if ($this.val() === '') {
-//             label.removeClass('active highlight');
-//         } else {
-//             label.removeClass('highlight');
-//         }
-//     } else if (e.type === 'focus') {
-
-//         if ($this.val() === '') {
-//             label.removeClass('highlight');
-//         } else if ($this.val() !== '') {
-//             label.addClass('highlight');
-//         }
-//     }
-
-// });
-
-// $('.tab a').on('click', function (e) {
-
-//     e.preventDefault();
-
-//     $(this).parent().addClass('active');
-//     $(this).parent().siblings().removeClass('active');
-
-//     target = $(this).attr('href');
-
-//     $('.tab-content > div').not(target).hide();
-
-//     $(target).fadeIn(600);
-
-// });
