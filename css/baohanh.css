@@ -28,7 +28,7 @@ tr:nth-of-type(even) {background-color: #e6e4e4;}
 	text-align: center;
 	font-size: 25px;
 	font-weight: bold;
-	background: #0C9;
+	background: rgb(216, 123, 17);
 }
 
 .col1 {

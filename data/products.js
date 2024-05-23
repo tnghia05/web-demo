@@ -1172,4 +1172,32 @@ var list_products = [{
         "battery": "55555 mAh"
     },
     "masp": "Sam5"
-}]
+    
+},{
+    "name": "realme C65",
+    "company": "realme",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/323002/realme-c65-thumb-1-600x600.jpg",
+    "price": "7.790.000",
+    "star": 2,
+    "rateCount": 14,
+    "promo": {
+        "name": "giareonline",
+        "value": "5.490.000"
+    },
+    "detail": {
+        "screen": "IPS LCD6.67'HD+",
+        "os": "Android 14",
+        
+        "camara": "Chính 50 MP & Cảm biến Flicker     ",
+        "camaraFront": "8 MP  ",
+        "cpu": "MediaTek Helio G85        ",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "55555 mAh"
+    },
+    "masp": "Rea4"
+    
+}
+
+]

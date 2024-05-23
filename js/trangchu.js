@@ -28,8 +28,7 @@ window.onload = function () {
 
 	// Thêm danh sách hãng điện thoại
 	var company = ["Apple.jpg", "Samsung.jpg", "Oppo.jpg", "Nokia.jpg", "Huawei.jpg", "Xiaomi.png",
-		"Realme.png", "Vivo.jpg", "Philips.jpg", "Mobell.jpg", "Mobiistar.jpg", "Itel.jpg",
-		"Coolpad.png", "HTC.jpg", "Motorola.jpg"
+		"Realme.png", "Vivo.jpg"
 	];
 	for (var c of company) addCompany("img/company/" + c, c.slice(0, c.length - 4));
 
