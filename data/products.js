@@ -321,10 +321,10 @@ var list_products = [{
     },
     "masp": "Mob2"
 }, {
-    "name": "Mobiistar B310",
-    "company": "Mobiistar",
-    "img": "img/products/mobiistar-b310-orange-600x600.jpg",
-    "price": "260.000",
+    "name": "OPPO Reno11 F 5G",
+    "company": "Oppo",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/321895/oppo-reno11-f-purple-thumb-600x600.jpg",
+    "price": "8.990.000",
     "star": 5,
     "rateCount": 87,
     "promo": {
@@ -332,17 +332,17 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "LCD, 1.8', QQVGA",
-        "os": "Không",
-        "camara": "0.08 MP",
-        "camaraFront": "Không",
-        "cpu": "Không",
-        "ram": "Không",
-        "rom": "Không",
-        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
-        "battery": "800 mAh"
+        "screen": "AMOLED6.7'Full HD+",
+        "os": "Android 14",
+        "camara": "32 MP",
+        "camaraFront": "Chính 64 MP & Phụ 8 MP, 2 MP",
+        "cpu": "MediaTek Dimensity 7050 5G 8 nhân",
+        "ram": "8 GB",
+        "rom": "256 GB",
+        "microUSB": "2 Nano SIMHỗ trợ 5G",
+        "battery": "5000 mAh67 W"
     },
-    "masp": "Mob3"
+    "masp": "Opp2"
 }, {
     "name": "Xiaomi Redmi Note 13",
     "company": "Xiaomi",
@@ -896,10 +896,10 @@ var list_products = [{
     },
     "masp": "Ite2"
 }, {
-    "name": "Itel it2161",
-    "company": "Itel",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193989/itel-it2161-600x600.jpg",
-    "price": "170.000",
+    "name": "vivo V30e 5G 8GB",
+    "company": "Vivo",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/323567/vivo-v30e-nau-thumb-600x600.jpg",
+    "price": "9.490.000",
     "star": 5,
     "rateCount": 33,
     "promo": {
@@ -907,17 +907,17 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "TFT, 1.77', WVGA",
-        "os": "Không",
-        "camara": "Không",
-        "camaraFront": "Không",
-        "cpu": "Không",
-        "ram": "Không",
-        "rom": "Không",
-        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
-        "battery": "1000 mAh"
+        "screen": "AMOLED 6.78' Full HD+",
+        "os": "Android 14",
+        "camara": "	32 MP",
+        "camaraFront": "Chính 50 MP & Phụ 8 MP",
+        "cpu": "	Snapdragon 6 Gen 1 8 nhân",
+        "ram": "8 GB",
+        "rom": "256 GB",
+        "microUSB": "	2 Nano SIMHỗ trợ 5G",
+        "battery": "	5500 mAh44 W"
     },
-    "masp": "Ite3"
+    "masp": "Viv4"
 }, {
     "name": "Coolpad N3D",
     "company": "Coolpad",
