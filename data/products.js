@@ -275,10 +275,10 @@ var list_products = [{
     },
     "masp": "Mob0"
 }, {
-    "name": "Mobiistar Zumbo S2 Dual",
-    "company": "Mobiistar",
-    "img": "img/products/mobiistar-zumbo-s2-dual-300x300.jpg",
-    "price": "2.850.000",
+    "name": "iPhone 15 Plus",
+    "company": "Apple",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/303891/iphone-15-plus-hong-128gb-thumb-600x600.jpg",
+    "price": "22.190.000",
     "star": 4,
     "rateCount": 104,
     "promo": {
@@ -286,17 +286,17 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 5.5', Full HD",
-        "os": "Android 7.0 (Nougat)",
-        "camara": "13 MP",
-        "camaraFront": "13 MP và 8 MP (2 camera)",
-        "cpu": "MT6737T, 4 nhân",
-        "ram": "3 GB",
-        "rom": "32 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
-        "battery": "3000 mAh"
+        "screen": "OLED6.7'Super Retina XDR",
+        "os": "iOS 17",
+        "camara": "12 MP",
+        "camaraFront": "Chính 48 MP & Phụ 12 MP",
+        "cpu": "Apple A16 Bionic",
+        "ram": "6 GB",
+        "rom": "128 GB",
+        "microUSB": "1 Nano SIM & 1 eSIMHỗ trợ 5G",
+        "battery": "4383 mAh20 W"
     },
-    "masp": "Mob1"
+    "masp": "App7"
 }, {
     "name": "Mobiistar E Selfie",
     "company": "Mobiistar",
@@ -1127,7 +1127,7 @@ var list_products = [{
 }, {
     "name": "Samsung Galaxy Z Fold5",
     "company": "Samsung",
-    "img": "/DoAn_Web/img/products/samsung-galaxy-z-fold5-blue-thumbnew-600x600.webp",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/301608/samsung-galaxy-z-fold5-blue-thumbnew-600x600.jpg",
     "price": "23.990.000",
     "star": 4,
     "rateCount": 804,
@@ -1172,6 +1172,31 @@ var list_products = [{
         "battery": "55555 mAh"
     },
     "masp": "Sam5"
+    
+},{
+    "name": "realme C65",
+    "company": "realme",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/323002/realme-c65-thumb-1-600x600.jpg",
+    "price": "7.790.000",
+    "star": 2,
+    "rateCount": 14,
+    "promo": {
+        "name": "giareonline",
+        "value": "5.490.000"
+    },
+    "detail": {
+        "screen": "IPS LCD6.67'HD+",
+        "os": "Android 14",
+        
+        "camara": "Chính 50 MP & Cảm biến Flicker     ",
+        "camaraFront": "8 MP  ",
+        "cpu": "MediaTek Helio G85        ",
+        "ram": "8 GB",
+        "rom": "128 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "55555 mAh"
+    },
+    "masp": "Rea4"
     
 },{
     "name": "realme C65",
