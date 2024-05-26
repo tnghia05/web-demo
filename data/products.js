@@ -1,8 +1,8 @@
 var list_products = [{
-    "name": "SamSung Galaxy J4+",
+    "name": "Samsung Galaxy A55 5G",
     "company": "Samsung",
-    "img": "img/products/samsung-galaxy-j4-plus-pink-400x400.jpg",
-    "price": "000000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/322096/samsung-galaxy-a55-5g-xanh-thumb-1-600x600.jpg",
+    "price": "8.290.000",
     "star": 3,
     "rateCount": 26,
     "promo": {
@@ -10,15 +10,15 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "IPS LCD, 6.0', HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP",
-        "camaraFront": "5 MP",
-        "cpu": "Qualcomm Snapdragon 425 4 nhân 64-bit",
-        "ram": "2 GB",
-        "rom": "16 GB",
+        "screen": "Super AMOLED 6.6 Full HD+    ",
+        "os": "Android 14        ",
+        "camara": "Chính 50 MP & Phụ 8 MP, 5 MP        ",
+        "camaraFront": "13 MP",
+        "cpu": "Exynos 1380 8 nhân        ",
+        "ram": "8 GB",
+        "rom": "128 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3300 mAh"
+        "battery": "4300 mAh"
     },
     "masp": "Sam0"
 }, {
@@ -206,26 +206,26 @@ var list_products = [{
     },
     "masp": "App1"
 }, {
-    "name": "iPhone 7 Plus 32GB",
+    "name": "iPhone 11 64GB",
     "company": "Apple",
-    "img": "img/products/iphone-7-plus-32gb-hh-600x600.jpg",
-    "price": "17.000.000",
-    "star": 0,
-    "rateCount": 0,
+    "img": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-trang-600x600.jpg",
+    "price": "11.790.000",
+    "star": 4,
+    "rateCount": 123,
     "promo": {
         "name": "giareonline",
-        "value": "16.990.000"
+        "value": "8.690.000"
     },
     "detail": {
-        "screen": "LED-backlit IPS LCD, 5.5', Retina HD",
-        "os": "iOS 11",
+        "screen": "IPS LCD6.1'Liquid Retina  ",
+        "os": "iOS 15",
         "camara": "2 camera 12 MP",
-        "camaraFront": "7 MP",
-        "cpu": "Apple A10 Fusion 4 nhân 64-bit",
-        "ram": "3 GB",
-        "rom": "32 GB",
+        "camaraFront": "12 MP",
+        "cpu": "Apple A13 Bionic        ",
+        "ram": "4 GB",
+        "rom": "64 GB",
         "microUSB": "Không",
-        "battery": "2900 mAh"
+        "battery": "3100 mAh"
     },
     "masp": "App2"
 }, {
@@ -735,10 +735,10 @@ var list_products = [{
     },
     "masp": "Viv2"
 }, {
-    "name": "Vivo Y71",
-    "company": "Vivo",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/158585/vivo-y71-docquyen-600x600.jpg",
-    "price": "3.290.000",
+    "name": "Samsung Galaxy S23 FE 5G",
+    "company": "Samsung",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/306994/samsung-galaxy-s23-fe-mint-thumbnew-600x600.jpg",
+    "price": "13.390.000",
     "star": 4,
     "rateCount": 60,
     "promo": {
@@ -746,17 +746,17 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "IPS LCD, 6.0', HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP",
-        "camaraFront": "5 MP",
-        "cpu": "Qualcomm Snapdragon 425 4 nhân 64-bit",
-        "ram": "3 GB",
-        "rom": "16 GB",
+        "screen": "Dynamic AMOLED 2X6.4 'Full HD+",
+        "os": "Android 13        ",
+        "camara": "Chính 50 MP & Phụ 12 MP, 8 MP        ",
+        "camaraFront": "10 MP",
+        "cpu": "Exynos 2200 8 nhân        ",
+        "ram": "8 GB",
+        "rom": "128 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3360 mAh"
+        "battery": "4320 mAh"
     },
-    "masp": "Viv3"
+    "masp": "Sam6"
 }, {
     "name": "Mobell M789",
     "company": "Mobell",
@@ -1037,12 +1037,12 @@ var list_products = [{
     "name": "iPhone Xr 128GB",
     "company": "Apple",
     "img": "https://cdn.tgdd.vn/Products/Images/42/191483/iphone-xr-128gb-red-600x600.jpg",
-    "price": "24.990.000",
+    "price": "6.990.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
         "name": "giareonline",
-        "value": "22.990.000"
+        "value": "4.990.000"
     },
     "detail": {
         "screen": "IPS LCD, 6.1', IPS LCD, 16 triệu màu",
@@ -1060,7 +1060,7 @@ var list_products = [{
     "name": "iPhone 8 Plus 64GB",
     "company": "Apple",
     "img": "https://cdn.tgdd.vn/Products/Images/42/114110/iphone-8-plus-hh-600x600.jpg",
-    "price": "20.990.000",
+    "price": "3.990.000",
     "star": 5,
     "rateCount": 230,
     "promo": {
@@ -1083,7 +1083,7 @@ var list_products = [{
     "name": "iPhone 8 Plus 256GB",
     "company": "Apple",
     "img": "https://cdn.tgdd.vn/Products/Images/42/114114/iphone-8-plus-256gb-red-600x600.jpg",
-    "price": "25.790.000",
+    "price": "5.790.000",
     "star": 5,
     "rateCount": 16,
     "promo": {
@@ -1106,12 +1106,12 @@ var list_products = [{
     "name": "iPhone Xr 64GB",
     "company": "Apple",
     "img": "https://cdn.tgdd.vn/Products/Images/42/190325/iphone-xr-black-400x460.png",
-    "price": "22.990.000",
+    "price": "6.990.000",
     "star": 1,
     "rateCount": 5,
     "promo": {
         "name": "giareonline",
-        "value": "19.990.000"
+        "value": "3.990.000"
     },
     "detail": {
         "screen": "IPS LCD, 6.1', IPS LCD, 16 triệu màu",
