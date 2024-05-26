@@ -268,13 +268,13 @@
     line-height: normal;
     color: #fff;
     text-align: center;
-    background: -webkit-linear-gradient(top, #f59000, #fd6e1d);
+    background: -webkit-linear-gradient(top, #afdbff, #399ae9);
     text-decoration: none;
     cursor: pointer;
 }
 
 .area_order .buy_now:hover {
-    background: -webkit-linear-gradient(top, #fd6e1d, #f59000);
+    background: -webkit-linear-gradient(top, #9dcaf3, #9a9cfd);
 }
 
 .area_order .buy_now p {

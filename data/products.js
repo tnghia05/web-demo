@@ -45,9 +45,9 @@ var list_products = [{
     },
     "masp": "Xia0"
 }, {
-    "name": "Oppo F9",
+    "name": "OPPO Reno11 5G",
     "company": "Oppo",
-    "img": "img/products/oppo-f9-red-600x600.jpg",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/314209/oppo-reno-11-xanh-thumb-600x600.jpg",
     "price": "7.690.000",
     "star": 5,
     "rateCount": 188,
@@ -56,22 +56,22 @@ var list_products = [{
         "value": "500.000"
     },
     "detail": {
-        "screen": "LTPS LCD, 6.3', Full HD+",
-        "os": "ColorOS 5.2 (Android 8.1)",
-        "camara": "16 MP và 2 MP (2 camera)",
-        "camaraFront": "25 MP",
-        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
-        "ram": "4 GB",
-        "rom": "64 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3500 mAh, có sạc nhanh"
+        "screen": "AMOLED6.7'Full HD+        ",
+        "os": "Android 14        ",
+        "camara": "Chính 50 MP & Phụ 32 MP, 8 MP        ",
+        "camaraFront": "32 MP",
+        "cpu": "MediaTek Dimensity 7050 5G 8 nhân        ",
+        "ram": "8 GB",
+        "rom": "256 GB",
+        "microUSB": "2 Nano SIMHỗ trợ 5G        ",
+        "battery": "5000 mAh, có sạc nhanh"
     },
     "masp": "Opp0"
 }, {
-    "name": "Nokia 5.1 Plus",
-    "company": "Nokia",
-    "img": "img/products/nokia-51-plus-black-18thangbh-400x400.jpg",
-    "price": "4.790.000",
+    "name": "OPPO Find N3 Flip 5G",
+    "company": "Oppo",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/317981/oppo-find-n3-flip-pink-thumb-600x600.jpeg",
+    "price": "22.990.000",
     "star": 5,
     "rateCount": 7,
     "promo": {
@@ -79,36 +79,36 @@ var list_products = [{
         "value": "250.000"
     },
     "detail": {
-        "screen": "IPS LCD, 5.8', HD+",
-        "os": "Android One",
-        "camara": "13 MP và 5 MP (2 camera)",
-        "camaraFront": "8 MP",
-        "cpu": "MediaTek Helio P60 8 nhân 64-bit",
-        "ram": "3 GB",
-        "rom": "32 GB",
+        "screen": "AMOLEDChính 6.8' & Phụ 3.26'Full HD+        ",
+        "os": "Android 13",
+        "camara": "Chính 50 MP & Phụ 48 MP, 32 MP ",
+        "camaraFront": "32 MP",
+        "cpu": "MediaTek Dimensity 9200 5G 8 nhân        ",
+        "ram": "12 GB",
+        "rom": "256 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3060 mAh, có sạc nhanh"
+        "battery": "5120 mAh, có sạc nhanh"
     },
     "masp": "Nok0"
 }, {
-    "name": "Samsung Galaxy A8+ (2018)",
+    "name": "Samsung Galaxy M54 5G",
     "company": "Samsung",
-    "img": "img/products/samsung-galaxy-a8-plus-2018-gold-600x600.jpg",
-    "price": "11.9090.000",
-    "star": 0,
-    "rateCount": 0,
+    "img": "https://cdn.tgdd.vn/Products/Images/42/275953/samsung-galaxy-m54-bac-thumb-600x600.jpg",
+    "price": "11.990.000",
+    "star": 5,
+    "rateCount": 123,
     "promo": {
         "name": "giamgia",
         "value": "1.500.000"
     },
     "detail": {
-        "screen": "Super AMOLED, 6', Full HD+",
-        "os": "Android 7.1 (Nougat)",
-        "camara": "16 MP",
-        "camaraFront": "16 MP và 8 MP (2 camera)",
-        "cpu": "Exynos 7885 8 nhân 64-bit",
-        "ram": "6 GB",
-        "rom": "64 GB",
+        "screen": "Super AMOLED Plus 6.7' Full HD+        ",
+        "os": "Android 13        ",
+        "camara": "32 MP        ",
+        "camaraFront": "Chính 108 MP & Phụ 8 MP, 2 MP        ",
+        "cpu": "Exynos 1380 8 nhân        ",
+        "ram": "8 GB",
+        "rom": "256 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "35000 mAh, có sạc nhanh"
     },
@@ -137,47 +137,47 @@ var list_products = [{
     },
     "masp": "App0"
 }, {
-    "name": "Oppo A3s 32GB",
+    "name": "OPPO Reno8 T",
     "company": "Oppo",
-    "img": "img/products/oppo-a3s-32gb-600x600.jpg",
-    "price": "4.690.000",
-    "star": 0,
-    "rateCount": 0,
+    "img": "https://cdn.tgdd.vn/Products/Images/42/299248/oppo-reno8t-4g-cam1-thumb-600x600.jpg",
+    "price": "6.690.000",
+    "star": 5,
+    "rateCount": 123,
     "promo": {
         "name": "tragop",
-        "value": "0"
+        "value": "100"
     },
     "detail": {
-        "screen": "IPS LCD, 6.2', HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "13 MP và 2 MP (2 camera)",
-        "camaraFront": "8 MP",
-        "cpu": "Qualcomm Snapdragon 450 8 nhân 64-bit",
-        "ram": "3 GB",
-        "rom": "32 GB",
+        "screen": "AMOLED6.4'Full HD+        ",
+        "os": "Android 13"        ,
+        "camara": "Chính 100 MP & Phụ 2 MP, 2 MP        ",
+        "camaraFront": "32 MP",
+        "cpu": "MediaTek Helio G99        ",
+        "ram": "8 GB",
+        "rom": "128 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "4230 mAh"
     },
     "masp": "Opp1"
 }, {
-    "name": "Samsung Galaxy J8",
+    "name": "Samsung Galaxy Z Flip5 5G",
     "company": "Samsung",
-    "img": "img/products/samsung-galaxy-j8-600x600-600x600.jpg",
-    "price": "6.390.000",
-    "star": 0,
-    "rateCount": 0,
+    "img": "https://cdn.tgdd.vn/Products/Images/42/299250/samsung-galaxy-z-flip5-mint-thumbnew-600x600.jpg",
+    "price": "19.990.000",
+    "star": 5,
+    "rateCount": 1231,
     "promo": {
         "name": "giamgia",
         "value": "500.000"
     },
     "detail": {
-        "screen": "Super AMOLED, 6.0', HD+",
-        "os": "Android 8.0 (Oreo)",
-        "camara": "16 MP và 5 MP (2 camera)",
+        "screen": "Chính: Dynamic AMOLED 2X, Phụ: Super AMOLEDChính 6.7' & Phụ 3.4'Full HD+ ",
+        "os": "Android 13        ",
+        "camara": "2 camera 12 MP        ",
         "camaraFront": "16 MP",
-        "cpu": "Qualcomm Snapdragon 450 8 nhân 64-bit",
-        "ram": "3 GB",
-        "rom": "32 GB",
+        "cpu": "Snapdragon 8 Gen 2 for Galaxy        ",
+        "ram": "8 GB",
+        "rom": "256 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
         "battery": "3500 mAh"
     },
@@ -229,10 +229,10 @@ var list_products = [{
     },
     "masp": "App2"
 }, {
-    "name": "Xiaomi Mi 8",
+    "name": "Xiaomi 14 Ultra",
     "company": "Xiaomi",
-    "img": "img/products/xiaomi-mi-8-1-600x600.jpg",
-    "price": "12.990.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/313889/xiaomi-14-ultra-white-thumb-600x600.jpg",
+    "price": "32.000.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -240,15 +240,15 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "IPS LCD, 6.26', Full HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "12 MP và 5 MP (2 camera)",
-        "camaraFront": "24 MP",
-        "cpu": "Qualcomm Snapdragon 660 8 nhân",
-        "ram": "4 GB",
-        "rom": "64 GB",
+        "screen": "AMOLED 6.73' Quad HD+ (2K+)        ",
+        "os": "Android 14 ",
+        "camara": "4 camera 50 MP        ",
+        "camaraFront": "32 MP",
+        "cpu": "Snapdragon 8 Gen 3 8 nhân        ",
+        "ram": "16 GB",
+        "rom": "512 GB",
         "microUSB": "MicroSD, hỗ trợ tối đa 512 GB",
-        "battery": "3300 mAh, có sạc nhanh"
+        "battery": "5500 mAh, có sạc nhanh"
     },
     "masp": "Xia1"
 }, {
@@ -413,10 +413,10 @@ var list_products = [{
     },
     "masp": "Hua0"
 }, {
-    "name": "Huawei Nova 3",
+    "name": "OPPO Find N3 5G",
     "company": "Huawei",
-    "img": "img/products/huawei-nova-3-2-600x600.jpg",
-    "price": "9.990.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/302953/oppo-find-n3-vang-dong-thumb-600x600.jpg",
+    "price": "41.990.000",
     "star": 4,
     "rateCount": 22,
     "promo": {
@@ -424,17 +424,17 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "LTPS LCD, 6.3', Full HD+",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "24 MP và 16 MP (2 camera)",
-        "camaraFront": "24 MP và 2 MP (2 camera)",
-        "cpu": "Hisilicon Kirin 970 8 nhân",
-        "ram": "6 GB",
-        "rom": "128 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3750 mAh, có sạc nhanh"
+        "screen": "AMOLEDChính 7.82' & Phụ 6.31'Quad HD+ (2K+)",
+        "os": "Android 13        ",
+        "camara": "Chính 48 MP & Phụ 48 MP, 64 MP        ",
+        "camaraFront": "Trong: 20 MP & Ngoài: 32 MP        ",
+        "cpu": "Snapdragon 8 Gen 2 8 nhân        ",
+        "ram": "16 GB",
+        "rom": "512 GB",
+        "microUSB": "2 Nano SIM hoặc 1 Nano SIM + 1 eSIMHỗ trợ 5G        ",
+        "battery": "4805 mAh67 W        "
     },
-    "masp": "Hua1"
+    "masp": "Opp3"
 }, {
     "name": "Huawei Y5 2017",
     "company": "Huawei",
@@ -827,75 +827,6 @@ var list_products = [{
     },
     "masp": "Mobe2"
 }, {
-    "name": "Itel P32",
-    "company": "Itel",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/186851/itel-p32-gold-600x600.jpg",
-    "price": "1.890.000",
-    "star": 4,
-    "rateCount": 12,
-    "promo": {
-        "name": "",
-        "value": ""
-    },
-    "detail": {
-        "screen": "IPS LCD, 5.45', qHD",
-        "os": "Android 8.1 (Oreo)",
-        "camara": "5 MP và 0.3 MP (2 camera)",
-        "camaraFront": "5 MP",
-        "cpu": "MT6580 4 nhân 32-bit",
-        "ram": "1 GB",
-        "rom": "8 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
-        "battery": "4000 mAh"
-    },
-    "masp": "Ite0"
-}, {
-    "name": "Itel A32F",
-    "company": "Itel",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/193990/itel-a32f-pink-gold-600x600.jpg",
-    "price": "1.350.000",
-    "star": 5,
-    "rateCount": 3,
-    "promo": {
-        "name": "moiramat",
-        "value": ""
-    },
-    "detail": {
-        "screen": "TFT, 5', FWVGA",
-        "os": "Android Go Edition",
-        "camara": "5 MP",
-        "camaraFront": "2 MP",
-        "cpu": "MediaTek MT6580 4 nhân 32-bit",
-        "ram": "1 GB",
-        "rom": "8 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 32 GB",
-        "battery": "2050 mAh"
-    },
-    "masp": "Ite1"
-}, {
-    "name": "Itel it2123",
-    "company": "Itel",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/146651/itel-it2123-d-300-300x300.jpg",
-    "price": "160.000",
-    "star": 5,
-    "rateCount": 302,
-    "promo": {
-        "name": "",
-        "value": ""
-    },
-    "detail": {
-        "screen": "TFT, 1.77', 65.536 màu",
-        "os": "Không",
-        "camara": "Không",
-        "camaraFront": "Không",
-        "cpu": "Không",
-        "ram": "Không",
-        "rom": "Không",
-        "microUSB": "Không",
-        "battery": "1000 mAh"
-    },
-    "masp": "Ite2"
-}, {
     "name": "vivo V30e 5G 8GB",
     "company": "Vivo",
     "img": "https://cdn.tgdd.vn/Products/Images/42/323567/vivo-v30e-nau-thumb-600x600.jpg",
@@ -1223,6 +1154,79 @@ var list_products = [{
     },
     "masp": "Rea4"
     
+},{
+    "name": "iPhone 15 Pro",
+    "company": "Apple",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/303832/iphone-15-pro-gold-thumbnew-600x600.jpg",
+    "price": "34.590.000",
+    "star": 5,
+    "rateCount": 123,
+    "promo": {
+        "name": "",
+        "value": ""
+    },
+    "detail": {
+        "screen": "OLED6.1'Super Retina XDR        ",
+        "os": "iOS 17        ",
+        
+        "camara": "Chính 48 MP & Phụ 12 MP, 12 MP        ",
+        "camaraFront": "12 MP  ",
+        "cpu": "Apple A17 Pro 6 nhân        ",
+        "ram": "8 GB",
+        "rom": "258 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "55555 mAh"
+    },
+    "masp": "App8"
+    
+},{
+    "name": "iPhone 12",
+    "company": "Apple",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/228737/iphone-12-do-new-600x600-600x600.jpg",
+    "price": "14.590.000",
+    "star": 5,
+    "rateCount": 123,
+    "promo": {
+        "name": "",
+        "value": ""
+    },
+    "detail": {
+        "screen": "OLED6.1'Super Retina XDR        ",
+        "os": "iOS 17        ",
+        
+        "camara": "Chính 48 MP & Phụ 12 MP, 12 MP        ",
+        "camaraFront": "12 MP  ",
+        "cpu": "Apple A17 Pro 6 nhân        ",
+        "ram": "8 GB",
+        "rom": "258 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 128 GB",
+        "battery": "55555 mAh"
+    },
+    "masp": "App9"
+    
+} ,{
+    "name": "Samsung Galaxy S22",
+    "company": "Samsung",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/271696/Galaxy-S22-Plus-Black-600x600.jpg",
+    "price": "16.990.000",
+    "star": 4,
+    "rateCount": 222,
+    "promo": {
+        "name": "tragop",
+        "value": "0"
+    },
+    "detail": {
+        "screen": "Super AMOLED, 6.0', Full HD+",
+        "os": "Android 8.0 (Oreo)",
+        "camara": "24 MP, 8 MP và 5 MP (3 camera)",
+        "camaraFront": "24 MP",
+        "cpu": "Exynos 7885 8 nhân 64-bit",
+        "ram": "4 GB",
+        "rom": "64 GB",
+        "microUSB": "MicroSD, hỗ trợ tối đa 512 GB",
+        "battery": "3300 mAh"
+    },
+    "masp": "Sam7"
 }
 
 ]
