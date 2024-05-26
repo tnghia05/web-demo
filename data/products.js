@@ -183,10 +183,10 @@ var list_products = [{
     },
     "masp": "Sam2"
 }, {
-    "name": "iPad 2018 Wifi 32GB",
+    "name": "iPhone 14 Plus",
     "company": "Apple",
-    "img": "img/products/ipad-wifi-32gb-2018-thumb-600x600.jpg",
-    "price": "8.990.000",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/245545/iPhone-14-plus-thumb-xanh-1-600x600.jpg",
+    "price": "19.390.000",
     "star": 0,
     "rateCount": 0,
     "promo": {
@@ -194,15 +194,15 @@ var list_products = [{
         "value": "0"
     },
     "detail": {
-        "screen": "LED-backlit LCD, 9.7p''",
-        "os": "\tiOS 11.3",
-        "camara": "8 MP",
-        "camaraFront": "1.2 MP",
-        "cpu": "Apple A10 Fusion, 2.34 GHz",
-        "ram": "2 GB",
-        "rom": "32 GB",
+        "screen": "OLED6.7'Super Retina XDR'",
+        "os": "\tiOS 16",
+        "camara": "12 MP",
+        "camaraFront": "12 MP",
+        "cpu": "OLED6.7'Super Retina XDR",
+        "ram": "6 GB",
+        "rom": "64 GB",
         "microUSB": "Không",
-        "battery": "Chưa có thông số cụ thể"
+        "battery": "4325 mAh20 W        "
     },
     "masp": "App1"
 }, {
@@ -288,8 +288,8 @@ var list_products = [{
     "detail": {
         "screen": "OLED6.7'Super Retina XDR",
         "os": "iOS 17",
-        "camara": "12 MP",
-        "camaraFront": "Chính 48 MP & Phụ 12 MP",
+        "camara": "Chính 48 MP & Phụ 12 MP",
+        "camaraFront": "12 MP",
         "cpu": "Apple A16 Bionic",
         "ram": "6 GB",
         "rom": "128 GB",
@@ -334,8 +334,8 @@ var list_products = [{
     "detail": {
         "screen": "AMOLED6.7'Full HD+",
         "os": "Android 14",
-        "camara": "32 MP",
-        "camaraFront": "Chính 64 MP & Phụ 8 MP, 2 MP",
+        "camara": "Chính 64 MP & Phụ 8 MP, 2 MP",
+        "camaraFront": "32 MP",
         "cpu": "MediaTek Dimensity 7050 5G 8 nhân",
         "ram": "8 GB",
         "rom": "256 GB",
@@ -505,10 +505,10 @@ var list_products = [{
     },
     "masp": "Sam3"
 }, {
-    "name": "Realme 2 Pro 8GB/128GB",
-    "company": "Realme",
-    "img": "https://cdn.tgdd.vn/Products/Images/42/192002/oppo-realme-2-pro-black-600x600.jpg",
-    "price": "6.990.000",
+    "name": "iPhone 13",
+    "company": "Apple",
+    "img": "https://cdn.tgdd.vn/Products/Images/42/223602/iphone-13-xanh-la-thumb-new-600x600.jpg",
+    "price": "13.690.000",
     "star": 5,
     "rateCount": 16,
     "promo": {
@@ -516,17 +516,17 @@ var list_products = [{
         "value": ""
     },
     "detail": {
-        "screen": "IPS LCD, 6.3', Full HD+",
-        "os": "ColorOS 5.2 (Android 8.1)",
-        "camara": "16 MP và 2 MP (2 camera)",
-        "camaraFront": "16 MP",
-        "cpu": "Qualcomm Snapdragon 660 8 nhân",
-        "ram": "8 GB",
+        "screen": "OLED6.1'Super Retina XDR",
+        "os": "iOS 15",
+        "camara": "2 camera 12 MP",
+        "camaraFront": "12 MP",
+        "cpu": "Apple A15 Bionic",
+        "ram": "4 GB",
         "rom": "128 GB",
-        "microUSB": "MicroSD, hỗ trợ tối đa 256 GB",
-        "battery": "3500 mAh"
+        "microUSB": "1 Nano SIM & 1 eSIMHỗ trợ 5G",
+        "battery": "3240 mAh20 W"
     },
-    "masp": "Rea0"
+    "masp": "App3"
 }, {
     "name": "Realme 2 4GB/64GB",
     "company": "Realme",
@@ -909,8 +909,8 @@ var list_products = [{
     "detail": {
         "screen": "AMOLED 6.78' Full HD+",
         "os": "Android 14",
-        "camara": "	32 MP",
-        "camaraFront": "Chính 50 MP & Phụ 8 MP",
+        "camara": "Chính 50 MP & Phụ 8 MP",
+        "camaraFront": "32 MP",
         "cpu": "	Snapdragon 6 Gen 1 8 nhân",
         "ram": "8 GB",
         "rom": "256 GB",
