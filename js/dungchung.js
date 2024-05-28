@@ -151,7 +151,6 @@ function logIn(form) {
     var newUser = new User(name, pass);
 
     // Lấy dữ liệu từ danh sách người dùng localstorage
-    var listUser = getListUser();
 
     // Kiểm tra xem dữ liệu form có khớp với người dùng nào trong danh sách ko
     for (var u of listUser) {
@@ -194,8 +193,6 @@ function signUp(form) {
     var newUser = new User(username, pass, ho, ten, email);
 
     // Lấy dữ liệu các khách hàng hiện có
-    var listUser = getListUser();
-
     // Kiểm tra trùng admin
     for (var ad of adminInfo) {
         if (newUser.username == ad.username) {
@@ -213,12 +210,10 @@ function signUp(form) {
     }
 
     // Lưu người mới vào localstorage
-    listUser.push(newUser);
     window.localStorage.setItem('ListUser', JSON.stringify(listUser));
 
     // Đăng nhập vào tài khoản mới tạo
-    window.localStorage.setItem('CurrentUser', JSON.stringify(newUser));
-    alert('Đăng kí thành công, Bạn sẽ được tự động đăng nhập!');
+
     location.reload();
 
     return false;
@@ -305,19 +300,7 @@ function setupEventTaiKhoan() {
 }
 
 // Cập nhật số lượng hàng trong giỏ hàng + Tên current user
-function capNhat_ThongTin_CurrentUser() {
-    var u = getCurrentUser();
-    if (u) {
-        // Cập nhật số lượng hàng vào header
-        document.getElementsByClassName('cart-number')[0].innerHTML = getTongSoLuongSanPhamTrongGioHang(u);
-        // Cập nhật tên người dùng
-        document.getElementsByClassName('member')[0]
-            .getElementsByTagName('a')[0].childNodes[2].nodeValue = ' ' + u.username;
-        // bỏ class hide của menu người dùng
-        document.getElementsByClassName('menuMember')[0]
-            .classList.remove('hide');
-    }
-}
+
 
 // tính tổng số lượng các sản phẩm của user u truyền vào
 function getTongSoLuongSanPhamTrongGioHang(u) {
@@ -328,14 +311,6 @@ function getTongSoLuongSanPhamTrongGioHang(u) {
     return soluong;
 }
 
-// lấy số lương của sản phẩm NÀO ĐÓ của user NÀO ĐÓ được truyền vào
-function getSoLuongSanPhamTrongUser(tenSanPham, user) {
-    for (var p of user.products) {
-        if (p.name == tenSanPham)
-            return p.soluong;
-    }
-    return 0;
-}
 
 // ==================== Những hàm khác ===================== 
 function numToString(num, char) {

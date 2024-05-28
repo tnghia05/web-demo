@@ -67,7 +67,7 @@
 		/* la div chua strong */
 		.sanPham .price {
 			display: block;
-			padding: 5px 10px 0px 10px;
+			padding: 0px 10px 0px 10px;
 		}
 		/* strong la gia tien in dam */
 		.sanPham strong {
