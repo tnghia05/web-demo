@@ -118,8 +118,8 @@
 .khungSanPham {
 	width: 100%;
 	margin: 50px 0;
-	border-radius: 17px;
-	border: 3px solid #ff4d00; 
+	border-radius: 5px;
+	border: 2px solid #ff4d00; 
 	box-sizing: border-box; /* dùng để width ko vượt ra ngoài khi có border */
 }
 

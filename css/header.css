@@ -1,7 +1,6 @@
 /* Header */
 	.header {
 		position: sticky;
-
 		position: -webkit-sticky; /* Safari */
 		top: 0;
 		z-index: 12;
